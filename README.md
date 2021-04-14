@@ -1,4 +1,4 @@
 # TabBarController 만들기
 
-> 참고링크
+> 참고 출처
   - <https://www.youtube.com/watch?v=t4dEOtSvmfM>
